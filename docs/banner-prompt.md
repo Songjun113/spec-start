@@ -1,0 +1,7 @@
+# README 插图
+
+使用内置 image-gen 生成，2026-10-09。插图表达需求、实施任务与验收证据的追溯关系，包括尚未闭合的任务链。
+
+## 提示词
+
+Use case: illustration-story. Asset type: premium wide hero banner for GitHub README of open-source Codex skill 'spec-start'. Create a refined original dark developer aesthetic illustration, landscape 16:9, charcoal black GitHub-like backdrop (#0d1117), delicate crisp lines, restrained cyan, lavender and gold accents, plenty of negative space. Exact typography at upper left: large 'spec-start'; smaller subtitle 'Requirements. Tasks. Evidence.' No other text. Visual metaphor across lower two-thirds: three beautifully spaced interconnected panels. Left a document card with three clear requirement items, middle a task board with a few connected implementation nodes and small progress markers, right a stack of evidence cards with a magnifying glass and a clearly completed check. Thin traceability lines connect individual requirement rows through corresponding task nodes to evidence cards, showing each requirement has its own linked proof. One incomplete chain ends at a hollow circle, conveying honest unresolved status. Editorial geometric illustration, flat crisp shapes with minimal dimensional depth, controlled subtle lighting, consistent visual grammar, professional open-source technical project identity, highly legible at 900px width. No fake code, no digits or performance claims, no logos, no mascots, no large AI brain, no photorealism, no busy dashboard clutter. Match the clean scientific visual feel of a modern README banner.

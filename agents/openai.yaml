@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec启动！"
+  short_description: "把项目目标、需求规格、实施任务和验收证据组织为可追溯管理。"
+  default_prompt: "使用 $spec-start 为当前项目开启或优化 Spec 管理，保留已有证据，明确需求、解释、任务和验收范围。"
